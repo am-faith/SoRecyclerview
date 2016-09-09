@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SoRecyclerviewDemo.iml" filepath="$PROJECT_DIR$/SoRecyclerviewDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sorecyclerview/sorecyclerview.iml" filepath="$PROJECT_DIR$/sorecyclerview/sorecyclerview.iml" />
+    </modules>
+  </component>
+</project>
